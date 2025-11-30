@@ -1,0 +1,4 @@
+## gitignore for python 
+
+.key
+.DS_STORE
